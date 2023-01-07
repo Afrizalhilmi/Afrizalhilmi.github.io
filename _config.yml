@@ -1,6 +1,6 @@
 ---
 title: Berfaedahlah
-timezone: UTC
+timezone: Asia/Jakarta
 collections:
   posts:
     title: Posts
@@ -14,9 +14,9 @@ copyright: BerbagiEdu (cleft) 2017-{currentYear} {author}
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl: ''
-url: ''
-favicon: ''
+baseurl: 
+url: 
+favicon: 
 yat:
   date_format: "%b %d, %Y"
 markdown: kramdown
