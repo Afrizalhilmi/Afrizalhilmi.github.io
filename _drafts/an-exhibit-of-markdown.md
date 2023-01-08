@@ -1,7 +1,6 @@
 ---
 title: An exhibit of Markdown
 date: 2018-12-05 07:00:00 +07:00
-published: false
 categories:
 - markdown
 tags:
