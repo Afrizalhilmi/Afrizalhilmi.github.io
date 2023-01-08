@@ -1,6 +1,7 @@
 ---
 title: An exhibit of Markdown
 date: 2018-12-05 07:00:00 +07:00
+published: false
 categories:
 - markdown
 tags:
@@ -10,11 +11,9 @@ subtitle: Each post also has a subtitle
 layout: post
 ---
 
-This note demonstrates some of what [Markdown][1] is capable of doing.
+This note demonstrates some of what [Markdown](https://daringfireball.net/projects/markdown/) is capable of doing.
 
 ## An exhibit of Markdown
-
-
 
 *Note: Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*
 
@@ -29,17 +28,23 @@ Paragraphs must be separated by a blank line. Basic formatting of *italics* and 
 ### Ordered list
 
 1. Item 1
+
 2. A second item
+
 3. Number 3
+
 4. Ⅳ
 
-*Note: the fourth item uses the Unicode character for [Roman numeral four][2].*
+*Note: the fourth item uses the Unicode character for [Roman numeral four](https://www.fileformat.info/info/unicode/char/2163/index.htm).*
 
 ### Unordered list
 
 * An item
+
 * Another item
+
 * Yet another item
+
 * And there's more...
 
 ## Paragraph modifiers
@@ -70,9 +75,11 @@ I don't recommend using more than three or four levels of headings here, because
 
 URLs can be made in a handful of ways:
 
-* A named link to [MarkItDown][3]. The easiest way to do these is to select what you want to make a link and hit `Ctrl+L`.
+* A named link to [MarkItDown](https://www.markitdown.net/). The easiest way to do these is to select what you want to make a link and hit `Ctrl+L`.
+
 * Another named link to [MarkItDown](https://www.markitdown.net/)
-* Sometimes you just want a URL like <https://www.markitdown.net/>.
+
+* Sometimes you just want a URL like [https://www.markitdown.net/](https://www.markitdown.net/).
 
 ## Horizontal rule
 
@@ -88,11 +95,4 @@ Markdown can also contain images. I'll need to add something here sometime.
 
 ## Finally
 
-There's actually a lot more to Markdown than this. See the official [introduction][4] and [syntax][5] for more information. However, be aware that this is not using the official implementation, and this might work subtly differently in some of the little things.
-
-
-  [1]: https://daringfireball.net/projects/markdown/
-  [2]: https://www.fileformat.info/info/unicode/char/2163/index.htm
-  [3]: https://www.markitdown.net/
-  [4]: https://daringfireball.net/projects/markdown/basics
-  [5]: https://daringfireball.net/projects/markdown/syntax
+There's actually a lot more to Markdown than this. See the official [introduction](https://daringfireball.net/projects/markdown/basics) and [syntax](https://daringfireball.net/projects/markdown/syntax) for more information. However, be aware that this is not using the official implementation, and this might work subtly differently in some of the little things.
