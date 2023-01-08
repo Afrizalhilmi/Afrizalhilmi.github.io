@@ -2,7 +2,7 @@
 title: My Example Post
 date: 2016-08-12 00:00:00 Z
 categories:
-- junk
+- junks
 layout: post
 ---
 
