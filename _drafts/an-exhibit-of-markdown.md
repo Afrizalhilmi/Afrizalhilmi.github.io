@@ -1,13 +1,13 @@
 ---
 title: An exhibit of Markdown
-date: 2018-12-05 00:00:00 Z
+date: 2018-12-05 07:00:00 +07:00
 categories:
 - markdown
 tags:
 - example
 - markdown
-layout: post
 subtitle: Each post also has a subtitle
+layout: post
 ---
 
 This note demonstrates some of what [Markdown][1] is capable of doing.
