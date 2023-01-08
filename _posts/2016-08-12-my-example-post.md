@@ -1,6 +1,6 @@
 ---
 title: My Example Post
-date: 2016-08-12 00:00:00 Z
+date: 2016-08-12 07:00:00 +07:00
 categories:
 - junks
 layout: post
