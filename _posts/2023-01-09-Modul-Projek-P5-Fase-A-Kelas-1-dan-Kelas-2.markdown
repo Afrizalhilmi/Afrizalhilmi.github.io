@@ -27,6 +27,14 @@ Modul projek profil dilengkapi dengan komponen yang menjadi dasar dalam proses p
 Modul projek profil pada dasarnya memiliki komponen sebagai berikut:
 
 **1. Profil Modul:**
-    * Tema dan topik atau judul modul
-    * Fase atau jenjang sasaran
-    * Durasi kegiatan
+* Tema dan topik atau judul modul
+* Fase atau jenjang sasaran
+* Durasi kegiatan
+
+**2. Tujuan:**
+* Pemetaan dimensi, elemen, sub elemen Profil Pelajar Pancasila yang menjadi tujuan projek profil
+* Rubrik pencapaian berisi rumusan kompetensi yang sesuai dengan fase peserta didik (Untuk Pendidikan Dasar dan Menengah)
+
+**3. Aktivitas:**
+* Alur aktivitas projek profil secara umum
+* Penjelasan detail tahapan kegiatan dan asesmennya
