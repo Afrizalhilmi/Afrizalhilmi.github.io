@@ -138,4 +138,4 @@ Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasi
 
 Demikian Kami Sampaikan **Modul Projek Penguatan Profil Pelajar Pancasila (P5)**, Silahkan Kembangkan menurut kearifan lokal daerah masing masing, Semoga Bermanfaat.
 
-
+Silahkan unduh **Panduan Pengembangan Projek Penguatan Profil Pelajar Pancasila** pada link yang sudah kami siapkan ( [Unduh Disini](https://s.id/PanduanPengembanganP5) )
