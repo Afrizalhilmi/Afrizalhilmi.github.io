@@ -52,7 +52,7 @@ Prinsip eksploratif berkaitan dengan semangat untuk membuka ruang yang lebar bag
 
 Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasila (P5)**, silahkan Jadikan referensi untuk di gunakan dan disesuaikan dengan kearifan lokal daerah masing masing.
 
-* Modul Projek P5 Fase A ( Kelas 1 dan 2 ) ( Lihat Disini )
+* Modul Projek P5 Fase A ( Kelas 1 dan 2 ) ( [Lihat Disini](https://www.berbagiedu.my.id/pendidikan/2023/01/09/Modul-Projek-P5-Fase-A-Kelas-1-dan-Kelas-2.html) )
 * Modul Projek P5 Fase B ( Kelas 3 dan 4 ) ( Lihat Disini )
 * Modul Projek P5 Fase C ( Kelas 5 dan 6 ) ( Lihat Disini )
 * Modul Projek P5 Fase D ( Kelas 7,8 dan 9 ) ( Lihat Disini )
