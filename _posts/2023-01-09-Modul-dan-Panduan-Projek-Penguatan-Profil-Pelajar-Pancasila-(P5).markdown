@@ -28,7 +28,7 @@ Profil Pelajar Pancasila adalah karakter dan kemampuan yang dibangun dalam keseh
 
 Projek Penguatan Profil Pelajar Pancasila adalah pembelajaran lintas disiplin ilmu untuk mengamati dan memikirkan solusi terhadap permasalahan di lingkungan sekitarnya. Projek Penguatan Profil Pelajar Pancasila menggunakan pendekatan pembelajaran berbasis projek (project-based learning), yang berbeda dengan pembelajaran berbasis projek dalam program intrakurikuler di dalam kelas. Projek Penguatan Profil Pelajar Pancasila memberikan kesempatan bagi peserta didik untuk belajar dalam situasi tidak formal, struktur belajar yang fleksibel, kegiatan belajar yang lebih interaktif, dan juga terlibat langsung dengan lingkungan sekitar untuk menguatkan berbagai kompetensi dalam Profil Pelajar Pancasila.
 
-Prinsip-prinsip Kunci Projek Penguatan Profil Pelajar Pancasila
+### Prinsip-prinsip Kunci Projek Penguatan Profil Pelajar Pancasila
 
 1. Holistik
 
@@ -52,12 +52,12 @@ Prinsip eksploratif berkaitan dengan semangat untuk membuka ruang yang lebar bag
 
 Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasila (P5)**, silahkan Jadikan referensi untuk di gunakan dan disesuaikan dengan kearifan lokal daerah masing masing.
 
-* Modul Projek P5 Fase A ( Kelas 1 dan 2 ) ( [Lihat Disini](https://www.berbagiedu.my.id/pendidikan/2023/01/09/Modul-Projek-P5-Fase-A-Kelas-1-dan-Kelas-2.html) )
-* Modul Projek P5 Fase B ( Kelas 3 dan 4 ) ( Lihat Disini )
-* Modul Projek P5 Fase C ( Kelas 5 dan 6 ) ( Lihat Disini )
-* Modul Projek P5 Fase D ( Kelas 7,8 dan 9 ) ( Lihat Disini )
-* Modul Projek P5 Fase E ( Kelas 10 ) ( Lihat Disini )
-* Modul Projek P5 Fase F ( Kelas 11 dan 12 ) ( Lihat Disini )
+* ### Modul Projek P5 Fase A ( Kelas 1 dan 2 ) ( [Lihat Disini](https://www.berbagiedu.my.id/pendidikan/2023/01/09/Modul-Projek-P5-Fase-A-Kelas-1-dan-Kelas-2.html) )
+* ### Modul Projek P5 Fase B ( Kelas 3 dan 4 ) ( Lihat Disini )
+* ### Modul Projek P5 Fase C ( Kelas 5 dan 6 ) ( Lihat Disini )
+* ### Modul Projek P5 Fase D ( Kelas 7,8 dan 9 ) ( Lihat Disini )
+* ### Modul Projek P5 Fase E ( Kelas 10 ) ( Lihat Disini )
+* ### Modul Projek P5 Fase F ( Kelas 11 dan 12 ) ( Lihat Disini )
 
 Untuk Selengkapnya silahkan unduh **Panduan Pengembangan Projek Penguatan Profil Pelajar Pancasila** pada link yang sudah kami siapkan ( [Unduh Disini](https://s.id/PanduanPengembanganP5) )
 
