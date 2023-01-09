@@ -6,6 +6,9 @@ categories:
 - Pendidikan
 tags:
 - bahan ajar
+- p5
+- kurmer
+- modul
 ---
 
 Modul projek sebagai penguatan profil pelajar Pancasila merupakan dokumen yang berisi tujuan, langkah, media pembelajaran, dan asesmen yang dibutuhkan untuk melaksanakan projek penguatan profil pelajar Pancasila.
