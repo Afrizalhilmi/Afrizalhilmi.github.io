@@ -2,6 +2,12 @@
 title: Modul Projek Penguatan Profil Pelajar Pancasila (P5) Fase B (Kelas 3 dan 4)
   SD
 date: 2023-01-10 22:53:00 +07:00
+categories:
+- Pendidikan
+tags:
+- kurmer
+- p5
+- modul
 ---
 
 Modul projek sebagai penguatan profil pelajar Pancasila merupakan dokumen yang berisi tujuan, langkah, media pembelajaran, dan asesmen yang dibutuhkan untuk melaksanakan projek penguatan profil pelajar Pancasila.
@@ -121,16 +127,26 @@ Melalui kegiatan ini, kreatifitas dan budaya kewirausahaan akan ditumbuh kembang
 
 Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasila (P5)**, silahkan Jadikan referensi untuk di gunakan dan disesuaikan dengan kearifan lokal daerah masing masing.
 
-### FASE A ( KELAS 1 DAN 2 )
-* **Fase A -** Gaya Hidup Berkelanjutan ( Unduh Disini )
-* **Fase A -** Kearifan lokal
-* * Kutanam Sayuranku ( Unduh Disini )
-* * Makananku Budayaku ( Unduh Disini )
-* **Fase A -** Bhinneka Tunggal Ika ( Unduh Disini )
-* **Fase A -** Berekayasa dan Berteknologi untuk Membangun NKRI ( Unduh Disini )
-* **Fase A -** Kewirausahaan
-* * Sayurku ( Unduh Disini )
-* * Aku Ingin ( Unduh Disini )
+### FASE B ( KELAS 3 DAN 4 )
+* **Fase B -** Gaya Hidup Berkelanjutan ( Unduh Disini )
+* * Cerdas dan Literat ( Unduh Disini )
+* * Kurangi Plastik ( Unduh Disini )
+* * Sampah Plastik ( Unduh Disini )
+* **Fase B -** Kearifan lokal
+* * Berkebun Sayur ( Unduh Disini )
+* * Budaya Sekolah ( Unduh Disini )
+* * Bahasa Matematika ( Unduh Disini )
+* **Fase B -** Bhinneka Tunggal Ika ( Unduh Disini )
+* **Fase B -** Berekayasa dan Berteknologi untuk Membangun NKRI ( Unduh Disini )
+* **Fase B -** Kewirausahaan
+* * Abon Lele ( Unduh Disini )
+* * Anyaman ( Unduh Disini )
+* * Hidpropink ( Unduh Disini )
+* * Jamu Toga ( Unduh Disini )
+* * Olahan Buah ( Unduh Disini )
+* * Sampah Pasar ( Unduh Disini )
+* * Sayur Toga ( Unduh Disini )
+* * Teknologi E ( Unduh Disini )
 
 Demikian Kami Sampaikan **Modul Projek Penguatan Profil Pelajar Pancasila (P5)**, Silahkan Kembangkan menurut kearifan lokal daerah masing masing, Semoga Bermanfaat.
 
