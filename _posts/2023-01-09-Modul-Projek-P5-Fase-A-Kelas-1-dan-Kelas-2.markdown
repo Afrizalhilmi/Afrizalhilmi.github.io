@@ -5,7 +5,6 @@ date: 2023-01-09 22:38:00 +07:00
 categories:
 - Pendidikan
 tags:
-- bahan ajar
 - p5
 - kurmer
 - modul
