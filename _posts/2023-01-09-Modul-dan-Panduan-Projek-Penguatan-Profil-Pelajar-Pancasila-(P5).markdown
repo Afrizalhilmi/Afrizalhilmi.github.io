@@ -20,9 +20,9 @@ Sebagai salah satu sumber informasi, penjelasan mengenai strategi, contoh- conto
 
 Projek Penguatan Profil Pelajar Pancasila merupakan upaya untuk mencapai Profil Pelajar Pancasila dengan menggunakan Pembelajaran Paradigma baru. Oleh karena itu, pemahaman mengenai Profil Pelajar Pancasila dan Pembelajaran Paradigma Baru perlu diupayakan.
 
->“... perlulah anak anak [Taman Siswa] kita dekatkan hidupnya kepada perikehidupan rakyat, agar supaya mereka tidak hanya memiliki ‘pengetahuan’ saja tentang hidup rakyatnya, akan tetapi juga dapat ‘mengalaminya’ sendiri , dan kemudian tidak hidup berpisahan dengan rakyatnya.” **Ki Hadjar Dewantara**
+> “... perlulah anak anak \[Taman Siswa\] kita dekatkan hidupnya kepada perikehidupan rakyat, agar supaya mereka tidak hanya memiliki ‘pengetahuan’ saja tentang hidup rakyatnya, akan tetapi juga dapat ‘mengalaminya’ sendiri , dan kemudian tidak hidup berpisahan dengan rakyatnya.” **Ki Hadjar Dewantara**
 
-Projek Penguatan Profil Pelajar Pancasila memberikan kesempatan kepada peserta didik untuk “mengalami pengetahuan” sebagai proses penguatan karakter sekaligus kesempatan untuk belajar dari lingkungan sekitarnya. Dalam kegiatan projek ini, peserta didik memiliki kesempatan untuk mempelajari tema-tema atau isu penting seperti perubahan iklim, antiradikalisme, kesehatan mental, budaya, wirausaha, teknologi, dan kehidupan berdemokrasi sehingga peserta didik bisa melakukan aksi nyata dalam menjawab isu-isu tersebut sesuai dengan tahapan belajar dan kebutuhannya. 
+Projek Penguatan Profil Pelajar Pancasila memberikan kesempatan kepada peserta didik untuk “mengalami pengetahuan” sebagai proses penguatan karakter sekaligus kesempatan untuk belajar dari lingkungan sekitarnya. Dalam kegiatan projek ini, peserta didik memiliki kesempatan untuk mempelajari tema-tema atau isu penting seperti perubahan iklim, antiradikalisme, kesehatan mental, budaya, wirausaha, teknologi, dan kehidupan berdemokrasi sehingga peserta didik bisa melakukan aksi nyata dalam menjawab isu-isu tersebut sesuai dengan tahapan belajar dan kebutuhannya.
 
 Projek penguatan ini juga dapat menginspirasi peserta didik untuk memberikan kontribusi dan dampak bagi lingkungan sekitarnya
 
@@ -36,15 +36,15 @@ Projek Penguatan Profil Pelajar Pancasila adalah pembelajaran lintas disiplin il
 
 Holistik bermakna memandang sesuatu secara utuh dan menyeluruh, tidak parsial atau terpisah-pisah. Dalam konteks perancangan Projek Penguatan Profil Pelajar Pancasila, kerangka berpikir holistik mendorong kita untuk menelaah sebuah tema secara utuh dan melihat keterhubungan dari berbagai hal untuk memahami sebuah isu secara mendalam
 
-2. Kontekstual
+1. Kontekstual
 
 Prinsip kontekstual berkaitan dengan upaya mendasarkan kegiatan pembelajaran pada pengalaman nyata yang dihadapi dalam keseharian. Prinsip ini mendorong pendidik dan peserta didik untuk dapat menjadikan lingkungan sekitar dan realitas kehidupan sehari-hari sebagai bahan utama pembelajaran.
 
-3. Berpusat pada Peserta Didik
+1. Berpusat pada Peserta Didik
 
 Prinsip berpusat pada peserta didik berkaitan dengan skema pembelajaran yang mendorong peserta didik untuk menjadi subjek pembelajaran yang aktif mengelola proses belajarnya secara mandiri.
 
-4. Eksploratif
+1. Eksploratif
 
 Prinsip eksploratif berkaitan dengan semangat untuk membuka ruang yang lebar bagi proses inkuiri dan pengembangan diri. Projek Penguatan Profil Pelajar Pancasila tidak berada dalam struktur intrakurikuler yang terkait dengan berbagai skema formal pengaturan mata pelajaran.
 
@@ -55,10 +55,15 @@ Prinsip eksploratif berkaitan dengan semangat untuk membuka ruang yang lebar bag
 Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasila (P5)**, silahkan Jadikan referensi untuk di gunakan dan disesuaikan dengan kearifan lokal daerah masing masing.
 
 * Modul Projek P5 Fase A ( Kelas 1 dan 2 ) ( [Lihat Disini](https://www.berbagiedu.my.id/pendidikan/2023/01/09/Modul-Projek-P5-Fase-A-Kelas-1-dan-Kelas-2.html) )
+
 * Modul Projek P5 Fase B ( Kelas 3 dan 4 ) ( [Lihat Disini](https://www.berbagiedu.my.id/pendidikan/2023/01/10/Modul-Projek-P5-Fase-B-Kelas-3-dan-Kelas-4.html) )
-* Modul Projek P5 Fase C ( Kelas 5 dan 6 ) ( Lihat Disini )
-* Modul Projek P5 Fase D ( Kelas 7,8 dan 9 ) ( Lihat Disini )
+
+* Modul Projek P5 Fase C ( Kelas 5 dan 6 ) ( [Lihat Disini](https://www.berbagiedu.my.id/pendidikan/2023/01/11/Modul-Projek-P5-Fase-C-Kelas-5-dan-Kelas-6.html) )
+
+* Modul Projek P5 Fase D ( Kelas 7,8 dan 9 ) ( [Lihat Disini](https://www.berbagiedu.my.id/pendidikan/2023/01/11/Modul-Projek-P5-Fase-D-Kelas-7-8-dan-9-SMP.html) )
+
 * Modul Projek P5 Fase E ( Kelas 10 ) ( Lihat Disini )
+
 * Modul Projek P5 Fase F ( Kelas 11 dan 12 ) ( Lihat Disini )
 
 Untuk Selengkapnya silahkan unduh **Panduan Pengembangan Projek Penguatan Profil Pelajar Pancasila** pada link yang sudah kami siapkan ( [Unduh Disini](https://s.id/PanduanPengembanganP5) )
