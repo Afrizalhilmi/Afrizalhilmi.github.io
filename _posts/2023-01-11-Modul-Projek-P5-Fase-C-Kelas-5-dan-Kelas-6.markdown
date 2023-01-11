@@ -2,6 +2,12 @@
 title: Modul Projek Penguatan Profil Pelajar Pancasila (P5) Fase C (Kelas 5 dan 6)
   SD
 date: 2023-01-11 10:50:00 +07:00
+categories:
+- Pendidikan
+tags:
+- p5
+- kurmer
+- modul
 ---
 
 Modul projek sebagai penguatan profil pelajar Pancasila merupakan dokumen yang berisi tujuan, langkah, media pembelajaran, dan asesmen yang dibutuhkan untuk melaksanakan projek penguatan profil pelajar Pancasila.
