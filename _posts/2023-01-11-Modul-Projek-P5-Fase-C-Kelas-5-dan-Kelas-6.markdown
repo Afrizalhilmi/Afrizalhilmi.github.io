@@ -6,7 +6,7 @@ date: 2023-01-11 10:50:00 +07:00
 
 Modul projek sebagai penguatan profil pelajar Pancasila merupakan dokumen yang berisi tujuan, langkah, media pembelajaran, dan asesmen yang dibutuhkan untuk melaksanakan projek penguatan profil pelajar Pancasila.
 
-![image1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkOV_0cGkijAWiuDx0sUPAri_NzBaBj5v7TAPuVleQ9BEEBmmPLuTVKoWDZgqUlICs7ygmIf0VERniP08fvlACD2ObIB9b5DrRsb0f1_QkRX7JNyfTWZGrfgpYOIHLejTp-hRACEuSSm28npaNHbg9UF2WFTANLnTpkMEEdbEtvIB0CL68tNJCgcue6g/s1300/2.jpg)
+![image1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDJKDKOSGweB9H3BtF6nF5Ztgg2FOqzLx6k_5zvdahU4ppLkIQ7gYf-Q7_knQoiXOVRLucBv_OW5HKEh9fZXhotJQs0FiBmP7wjv5XVAGrkOEh1nLMRaC7C51FeiqfF3gOIQvlqv3dzPHfK4m5Yyyh_hQC4sV5yGGgWDE28Z8c4HnPxpv6TuvtMhU3Lg/s1300/4.jpg)
 
 Pendidik memiliki keleluasaan untuk membuat sendiri, memilih, dan memodifikasi modul projek profil yang tersedia sesuai dengan konteks, karakteristik, serta kebutuhan peserta didik. 
 
