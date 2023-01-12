@@ -128,15 +128,15 @@ Melalui kegiatan ini, kreatifitas dan budaya kewirausahaan akan ditumbuh kembang
 Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasila (P5)**, silahkan Jadikan referensi untuk di gunakan dan disesuaikan dengan kearifan lokal daerah masing masing.
 
 ### FASE A ( KELAS 1 DAN 2 )
-* **Fase A -** Gaya Hidup Berkelanjutan ( Unduh Disini )
+* **Fase A -** Gaya Hidup Berkelanjutan ( [Unduh Disini](https://s.id/fase_a_gayahidupberkelanjutan) )
 * **Fase A -** Kearifan lokal
-* * Kutanam Sayuranku ( Unduh Disini )
-* * Makananku Budayaku ( Unduh Disini )
-* **Fase A -** Bhinneka Tunggal Ika ( Unduh Disini )
-* **Fase A -** Berekayasa dan Berteknologi untuk Membangun NKRI ( Unduh Disini )
+* * Kutanam Sayuranku ( [Unduh Disini](https://s.id/fase-a-kearifanlokal1) )
+* * Makananku Budayaku ( [Unduh Disini](https://s.id/fase-a-kearifanlokal2) )
+* **Fase A -** Bhinneka Tunggal Ika ( [Unduh Disini](https://s.id/fase-a-bhinekatunggalika) )
+* **Fase A -** Berekayasa dan Berteknologi untuk Membangun NKRI ( [Unduh Disini](https://s.id/fase-a-rekayasateknologi) )
 * **Fase A -** Kewirausahaan
-* * Sayurku ( Unduh Disini )
-* * Aku Ingin ( Unduh Disini )
+* * Sayurku ( [Unduh Disini](https://s.id/fase-a-kewirausahaan1) )
+* * Aku Ingin ( [Unduh Disini](https://s.id/fase-a-kewirausahaan2) )
 
 Demikian Kami Sampaikan **Modul Projek Penguatan Profil Pelajar Pancasila (P5)**, Silahkan Kembangkan menurut kearifan lokal daerah masing masing, Semoga Bermanfaat.
 
