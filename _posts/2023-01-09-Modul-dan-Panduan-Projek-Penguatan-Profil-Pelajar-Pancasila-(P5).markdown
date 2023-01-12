@@ -62,9 +62,9 @@ Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasi
 
 * Modul Projek P5 Fase D ( Kelas 7,8 dan 9 ) ( [Lihat Disini](https://www.berbagiedu.my.id/pendidikan/2023/01/11/Modul-Projek-P5-Fase-D-Kelas-7-8-dan-9-SMP.html) )
 
-* Modul Projek P5 Fase E ( Kelas 10 ) ( Lihat Disini )
+* Modul Projek P5 Fase E ( Kelas 10 ) ( [Lihat Disini](https://www.berbagiedu.my.id/pendidikan/2023/01/12/Modul-Projek-P5-Fase-E-Kelas-10-SMA-SMK.html) )
 
-* Modul Projek P5 Fase F ( Kelas 11 dan 12 ) ( Lihat Disini )
+* Modul Projek P5 Fase F ( Kelas 11 dan 12 ) ( [Lihat Disini](https://www.berbagiedu.my.id/pendidikan/2023/01/12/Modul-Projek-P5-Fase-F-Kelas-11-12-SMA-SMK.html) )
 
 Untuk Selengkapnya silahkan unduh **Panduan Pengembangan Projek Penguatan Profil Pelajar Pancasila** pada link yang sudah kami siapkan ( [Unduh Disini](https://s.id/PanduanPengembanganP5) )
 
