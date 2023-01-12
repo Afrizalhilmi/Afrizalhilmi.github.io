@@ -128,7 +128,7 @@ Melalui kegiatan ini, kreatifitas dan budaya kewirausahaan akan ditumbuh kembang
 Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasila (P5)**, silahkan Jadikan referensi untuk di gunakan dan disesuaikan dengan kearifan lokal daerah masing masing.
 
 ### FASE B ( KELAS 3 DAN 4 )
-* **Fase B -** Gaya Hidup Berkelanjutan ( Unduh Disini )
+* **Fase B -** Gaya Hidup Berkelanjutan
 * * Cerdas dan Literat ( Unduh Disini )
 * * Kurangi Plastik ( Unduh Disini )
 * * Sampah Plastik ( Unduh Disini )
