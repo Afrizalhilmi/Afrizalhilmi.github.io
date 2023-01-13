@@ -128,15 +128,15 @@ Melalui kegiatan ini, kreatifitas dan budaya kewirausahaan akan ditumbuh kembang
 Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasila (P5)**, silahkan Jadikan referensi untuk di gunakan dan disesuaikan dengan kearifan lokal daerah masing masing.
 
 ### FASE A ( KELAS 1 DAN 2 )
-* **Fase A -** Gaya Hidup Berkelanjutan ( [Unduh Disini](https://s.id/fase_a_gayahidupberkelanjutan) )
+* **Fase A -** Gaya Hidup Berkelanjutan ( [Unduh Disini](https://s.id/fase-a-gyhdpberkelanjutan) )
 * **Fase A -** Kearifan lokal
-* * Kutanam Sayuranku ( [Unduh Disini](https://s.id/fase-a-kearifanlokal1) )
-* * Makananku Budayaku ( [Unduh Disini](https://s.id/fase-a-kearifanlokal2) )
-* **Fase A -** Bhinneka Tunggal Ika ( [Unduh Disini](https://s.id/fase-a-bhinekatunggalika) )
-* **Fase A -** Berekayasa dan Berteknologi untuk Membangun NKRI ( [Unduh Disini](https://s.id/fase-a-rekayasateknologi) )
+* * Kutanam Sayuranku ( [Unduh Disini](https://s.id/fase-a-kearifanlkal1) )
+* * Makananku Budayaku ( [Unduh Disini](https://s.id/fase-a-kearifanlkal2) )
+* **Fase A -** Bhinneka Tunggal Ika ( [Unduh Disini](https://s.id/fase-a-binekatunggalika) )
+* **Fase A -** Berekayasa dan Berteknologi untuk Membangun NKRI ( [Unduh Disini](https://s.id/fase-a-rekayasateknolog) )
 * **Fase A -** Kewirausahaan
-* * Sayurku ( [Unduh Disini](https://s.id/fase-a-kewirausahaan1) )
-* * Aku Ingin ( [Unduh Disini](https://s.id/fase-a-kewirausahaan2) )
+* * Sayurku ( [Unduh Disini](https://s.id/fase-a-wirausahaan1) )
+* * Aku Ingin ( [Unduh Disini](https://s.id/fase-a-wirausahaan2) )
 
 Demikian Kami Sampaikan **Modul Projek Penguatan Profil Pelajar Pancasila (P5)**, Silahkan Kembangkan menurut kearifan lokal daerah masing masing, Semoga Bermanfaat.
 
