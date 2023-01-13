@@ -129,8 +129,8 @@ Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasi
 
 ### FASE B ( KELAS 3 DAN 4 )
 * **Fase B -** Gaya Hidup Berkelanjutan
-* * Cerdas dan Literat ( Unduh Disini )
-* * Kurangi Plastik ( Unduh Disini )
+* * Cerdas dan Literat ( [Unduh Disini](https://s.id/fase-b-ghb-cerdasliterat) )
+* * Kurangi Plastik ( [Unduh Disini](https://s.id/fase-b-ghb-kurangiplastik) )
 * * Sampah Plastik ( Unduh Disini )
 * **Fase B -** Kearifan lokal
 * * Berkebun Sayur ( Unduh Disini )
