@@ -149,9 +149,9 @@ Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasi
 
 * **Fase D -** Kearifan lokal ( [Unduh Disini](https://s.id/fase-d-kl) )
 
-* **Fase D -** Bhinneka Tunggal Ika ( [Unduh Disini](https://s.id/fase-d-ghb) )
+* **Fase D -** Bhinneka Tunggal Ika ( [Unduh Disini](https://s.id/fase-d-bti) )
 
-* **Fase D -** Bangun lah Jiwa dan Raganya\*\*[(Unduh Disini)](https://drive.google.com/file/d/1OackfmwDZIxYRl08S47oca-kbhJNlcce/view?usp=sharing)\*\*
+* **Fase D -** Bangun lah Jiwa dan Raganya ( [Unduh Disini](https://s.id/fase-d-jiwaraga) )
 
 * **Fase D -** Suara Demokrasi\*\* [(Unduh Disini)](https://drive.google.com/file/d/18JSVxypsdhSkXzl2YAGrCe1dnmEveaeb/view?usp=sharing)\*\*
 
