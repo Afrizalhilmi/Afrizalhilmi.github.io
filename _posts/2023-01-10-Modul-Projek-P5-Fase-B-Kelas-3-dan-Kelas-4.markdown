@@ -139,7 +139,7 @@ Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasi
 * **Fase B -** Bhinneka Tunggal Ika ( Unduh Disini )
 * **Fase B -** Berekayasa dan Berteknologi untuk Membangun NKRI ( Unduh Disini )
 * **Fase B -** Kewirausahaan
-* * Abon Lele ( Unduh Disini )
+* * Abon Lele ( [Unduh Disini](https://s.id/fase-b-kw-abonlele) )
 * * Anyaman ( Unduh Disini )
 * * Hidpropink ( Unduh Disini )
 * * Jamu Toga ( Unduh Disini )
