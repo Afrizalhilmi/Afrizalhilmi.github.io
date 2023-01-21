@@ -153,11 +153,11 @@ Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasi
 
 * **Fase D -** Bangun lah Jiwa dan Raganya ( [Unduh Disini](https://s.id/fase-d-jiwaraga) )
 
-* **Fase D -** Suara Demokrasi\*\* [(Unduh Disini)](https://drive.google.com/file/d/18JSVxypsdhSkXzl2YAGrCe1dnmEveaeb/view?usp=sharing)\*\*
+* **Fase D -** Suara Demokrasi ( [Unduh Disini](https://s.id/fase-d-demokrasi) )
 
-* **Fase D -** Berekayasa dan Berteknologi untuk Membangun NKRI ( Unduh Disini )
+* **Fase D -** Berekayasa dan Berteknologi untuk Membangun NKRI ( [Unduh Disini](https://s.id/fase-d-rekayasa) )
 
-* \*\*Fase D - \*\*Kewirausahaan **[( Unduh Disini )](https://drive.google.com/file/d/1_-nb3o43sdV7fIqExOmBR1kYz_XfPEfN/view?usp=sharing)**
+* **Fase D -** Kewirausahaan ( [Unduh Disini](https://s.id/fase-d-wirausaha) )
 
 Demikian Kami Sampaikan **Modul Projek Penguatan Profil Pelajar Pancasila (P5)**, Silahkan Kembangkan menurut kearifan lokal daerah masing masing, Semoga Bermanfaat.
 
