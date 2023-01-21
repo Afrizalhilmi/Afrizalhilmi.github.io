@@ -145,11 +145,11 @@ Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasi
 
 ### FASE D ( KELAS 7, 8 DAN 9 ) SMP
 
-* **Fase D -** Gaya Hidup Berkelanjutan ( Unduh Disini )
+* **Fase D -** Gaya Hidup Berkelanjutan ( [Unduh Disini](https://s.id/fase-d-ghb) )
 
-* **Fase D -** Kearifan lokal ( Unduh Disini )
+* **Fase D -** Kearifan lokal ( [Unduh Disini](https://s.id/fase-d-kl) )
 
-* **Fase D -** Bhinneka Tunggal Ika ( Unduh Disini )
+* **Fase D -** Bhinneka Tunggal Ika ( [Unduh Disini](https://s.id/fase-d-ghb) )
 
 * **Fase D -** Bangun lah Jiwa dan Raganya\*\*[(Unduh Disini)](https://drive.google.com/file/d/1OackfmwDZIxYRl08S47oca-kbhJNlcce/view?usp=sharing)\*\*
 
