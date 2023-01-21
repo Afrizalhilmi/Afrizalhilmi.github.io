@@ -133,8 +133,8 @@ Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasi
 * **Fase C -** Bhinneka Tunggal Ika ( [Unduh Disini](https://s.id/fase-c-bti) )
 * **Fase C -** Berekayasa dan Berteknologi untuk Membangun NKRI ( [Unduh Disini](https://s.id/fase-c-internetkusehat) )
 * **Fase C -** Kewirausahaan
-* * Daur Ulang ( Unduh Disini )
-* * Penggunaan ( Unduh Disini )
+* * Daur Ulang ( [Unduh Disini](https://s.id/fase-c-daurulang) )
+* * Penggunaan ( [Unduh Disini](https://s.id/fase-c-1wYE9) )
 
 Demikian Kami Sampaikan **Modul Projek Penguatan Profil Pelajar Pancasila (P5)**, Silahkan Kembangkan menurut kearifan lokal daerah masing masing, Semoga Bermanfaat.
 
