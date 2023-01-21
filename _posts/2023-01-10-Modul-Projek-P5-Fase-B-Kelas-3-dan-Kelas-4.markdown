@@ -146,7 +146,7 @@ Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasi
 * * Olahan Buah ( [Unduh Disini](https://s.id/fase-b-kw-olahanbuah) )
 * * Sampah Pasar ( [Unduh Disini](https://s.id/fase-b-kw-sampahpasar) )
 * * Sayur Toga ( [Unduh Disini](https://s.id/fase-b-kw-sayurantoga) )
-* * Teknologi E ( [Unduh Disini](https://s.id/fase-b-kw-sayurantoga) )
+* * Teknologi E ( [Unduh Disini](https://s.id/fase-b-kw-teknologiE) )
 
 Demikian Kami Sampaikan **Modul Projek Penguatan Profil Pelajar Pancasila (P5)**, Silahkan Kembangkan menurut kearifan lokal daerah masing masing, Semoga Bermanfaat.
 
