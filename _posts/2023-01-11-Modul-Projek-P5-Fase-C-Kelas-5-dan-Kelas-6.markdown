@@ -129,7 +129,7 @@ Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasi
 
 ### FASE C ( KELAS 5 DAN 6 )
 * **Fase C -** Gaya Hidup Berkelanjutan ( [Unduh Disini](https://s.id/fase-c-ghb) )
-* **Fase C -** Kearifan lokal ( Unduh Disini )
+* **Fase C -** Kearifan lokal ( [Unduh Disini](https://s.id/fase-c-kl) )
 * **Fase C -** Bhinneka Tunggal Ika ( Unduh Disini )
 * **Fase C -** Berekayasa dan Berteknologi untuk Membangun NKRI ( Unduh Disini )
 * **Fase C -** Kewirausahaan
