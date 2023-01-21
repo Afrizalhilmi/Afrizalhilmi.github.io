@@ -133,7 +133,7 @@ Berikut coba kami bagikan Contoh **Modul Projek Penguatan Profil Pelajar Pancasi
 * * Kurangi Plastik ( [Unduh Disini](https://s.id/fase-b-ghb-kurangiplastik) )
 * * Sampah Plastik ( [Unduh Disini](https://s.id/fase-b-ghb-sampahplastik) )
 * **Fase B -** Kearifan lokal
-* * Berkebun Sayur ( [Unduh Disini](https://s.id/fase-b-kl-berkebunsayur) )
+* * Berkebun Sayur ( [Unduh Disini](https://s.id/fase-b-kl-berkebunsayurr) )
 * * Budaya Sekolah ( [Unduh Disini](https://s.id/fase-b-kl-budayasekolah) )
 * * Bahasa Matematika ( Unduh Disini )
 * **Fase B -** Bhinneka Tunggal Ika ( Unduh Disini )
