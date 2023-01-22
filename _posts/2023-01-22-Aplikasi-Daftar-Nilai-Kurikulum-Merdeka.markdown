@@ -51,6 +51,8 @@ Menjalankan kurikulum merdeka yang baik dapat membentuk generasi yang memiliki s
 
 Berikut Aplikasi Daftar Nilai Kurikulum Merdeka Semua Jenjang Lengkap dapat di lihat pada tautan berikut di bawah ini:
 
+ \[Lihat Aplikasi\](https://s.id/aplikasinilaikurmer)
+
 | Aplikasi Excel | Download Disini | 
 | --------------------- | --------------------- | 
 | Aplikasi Nilai Kurmer | \[Lihat Aplikasi\](https://s.id/aplikasinilaikurmer) | 
