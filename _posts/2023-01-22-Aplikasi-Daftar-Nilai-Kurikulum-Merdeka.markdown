@@ -1,6 +1,10 @@
 ---
 title: Aplikasi Daftar Nilai Kurikulum Merdeka Semua Jenjang
 date: 2023-01-22 23:19:00 +07:00
+categories:
+- aplikasi
+tags:
+- aplikasi
 ---
 
 Daftar nilai kurikulum merdeka adalah seperangkat nilai yang diterapkan dalam kurikulum pendidikan di Indonesia yang dikembangkan oleh Kementerian Pendidikan dan Kebudayaan. Tujuan dari kurikulum ini adalah untuk menumbuhkan sikap kemerdekaan, nasionalisme, dan semangat untuk mencintai tanah air.
