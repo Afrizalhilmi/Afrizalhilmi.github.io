@@ -53,4 +53,4 @@ Berikut Aplikasi Daftar Nilai Kurikulum Merdeka Semua Jenjang Lengkap dapat di l
 
 | Aplikasi Excel               | Unduh Disini               |
 | --------------------- | --------------------- |
-| Daftar Nilai Kurikulum Merdeka | Lihat Aplikasi ( \[Unduh Disini\](https://s.id/aplikasinilaikurmer) ) |
+| Daftar Nilai Kurikulum Merdeka | ( \[Lihat Aplikasi\](https://s.id/aplikasinilaikurmer) ) |
