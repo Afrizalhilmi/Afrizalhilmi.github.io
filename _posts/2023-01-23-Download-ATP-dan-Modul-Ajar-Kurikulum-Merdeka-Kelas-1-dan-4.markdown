@@ -15,13 +15,9 @@ Kurikulum Merdeka diterapkan pertama kali pada tahun 1951 sebagai kurikulum pend
 Kurikulum Merdeka mengutamakan pendidikan karakter yang diharapkan mampu memberikan sumbangsih yang nyata bagi kemajuan bangsa Indonesia. Dalam pendidikan karakter, diharapkan siswa mampu memperoleh beberapa kompetensi seperti :
 
 * Kemandirian dan tanggung jawab
-
 * Kepemimpinan dan kerja sama
-
 * Kerja keras dan kedisiplinan
-
 * Kerja sama tim
-
 * Kemampuan dalam beradaptasi dan menerima perbedaan
 
 Dalam kurikulum Merdeka, juga diharapkan siswa dapat memperoleh ilmu pengetahuan dan keterampilan yang diperlukan untuk mengikuti perkembangan dunia dan teknologi saat ini. Selain itu, pendidikan juga ditekankan pada peningkatan kualitas, kuantitas, serta penguasaan bahasa Inggris sebagai bahasa internasional.
