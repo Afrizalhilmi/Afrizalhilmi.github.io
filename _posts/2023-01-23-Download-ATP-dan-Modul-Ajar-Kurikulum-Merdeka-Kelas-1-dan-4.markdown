@@ -50,11 +50,11 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 ### IKM Kelas 1 : BAHASA INDONESIA
 
-* [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9XUTVCRlE3USNzU2w3WUwyYjBpYWpuYVREQmwtNV9n)
+* [Alur dan Tujuan Pembelajaran](https://teknosimple.com/LsUB)
 
-* [Program Tahunan](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ETVFFMlpySiNNSHM1TkZjNmlSYjJxLVVhaGg0UmJn)
+* [Program Tahunan](https://teknosimple.com/YZTaI9)
 
-* [Modul Ajar: Bab 1](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pRkJ3RUw3SiNpY3ltUHNxdXV4ZDlDVkx1N0ZWSzlB)
+* [Modul Ajar: Bab 1](https://teknosimple.com/2CltOk4h1vVh)
 
 * [Modul Ajar: Bab 2](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9MWWh3Q0NMWSNZai1iVk5EdG5PREtjVU83blRwbE9B)
 
