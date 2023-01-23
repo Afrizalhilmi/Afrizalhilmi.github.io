@@ -32,21 +32,252 @@ Implementasi Kurikulum Merdeka dalam pendidikan dasar dan menengah merupakan hal
 
 **Berikut adalah beberapa tips untuk menerapkan Kurikulum Merdeka:**
 
-**Persiapkan sumber daya yang dibutuhkan. **Implementasi Kurikulum Merdeka memerlukan sumber daya yang cukup seperti buku-buku teks, modul pelatihan, dan alat peraga yang sesuai. Persiapkan sumber daya ini sebelum menerapkan kurikulum baru.
-
-**Sosialisasikan Kurikulum Merdeka. **Informasikan kepada guru, siswa, orang tua, dan masyarakat lain tentang Kurikulum Merdeka dan bagaimana ini akan meningkatkan kualitas pendidikan di sekolah.
-
-**Pelatihan guru.**Pelatihan guru adalah hal yang penting dalam implementasi Kurikulum Merdeka. Sediakan pelatihan yang sesuai untuk guru agar mereka dapat mengajar dengan baik dan menerapkan kurikulum dengan benar.
-
-**Terapkan pendidikan karakter. **Kurikulum Merdeka menekankan pentingnya pendidikan karakter. Buat program khusus untuk menanamkan nilai-nilai seperti nasionalisme, patriotisme, serta daya saing global.
-
-**Revisi kurikulum secara teratur. **Kurikulum Merdeka harus diperbarui secara teratur untuk menyesuaikan dengan perkembangan dunia dan kebutuhan bangsa. Revisi secara berkala akan memastikan kurikulum tetap relevan dan sesuai dengan kebutuhan siswa.
-
-**Kurangi fokus pada memorisasi, lebih fokus pada pemahaman. **Kurikulum Merdeka menekankan pentingnya memahami konsep dasar dari materi yang dipelajari, jangan hanya fokus pada memorisasi saja
-
-**Jangan lupa pendidikan bahasa Inggris**, sebagai bahasa internasional sangat penting bagi perkembangan karir dan persaingan global.
-
+**Persiapkan sumber daya yang dibutuhkan. **Implementasi Kurikulum Merdeka memerlukan sumber daya yang cukup seperti buku-buku teks, modul pelatihan, dan alat peraga yang sesuai. Persiapkan sumber daya ini sebelum menerapkan kurikulum baru.\
+\
+**Sosialisasikan Kurikulum Merdeka. **Informasikan kepada guru, siswa, orang tua, dan masyarakat lain tentang Kurikulum Merdeka dan bagaimana ini akan meningkatkan kualitas pendidikan di sekolah.\
+\
+**Pelatihan guru. **Pelatihan guru adalah hal yang penting dalam implementasi Kurikulum Merdeka. Sediakan pelatihan yang sesuai untuk guru agar mereka dapat mengajar dengan baik dan menerapkan kurikulum dengan benar.\
+\
+**Terapkan pendidikan karakter. **Kurikulum Merdeka menekankan pentingnya pendidikan karakter. Buat program khusus untuk menanamkan nilai-nilai seperti nasionalisme, patriotisme, serta daya saing global.\
+\
+**Revisi kurikulum secara teratur. **Kurikulum Merdeka harus diperbarui secara teratur untuk menyesuaikan dengan perkembangan dunia dan kebutuhan bangsa. Revisi secara berkala akan memastikan kurikulum tetap relevan dan sesuai dengan kebutuhan siswa.\
+\
+**Kurangi fokus pada memorisasi, lebih fokus pada pemahaman. **Kurikulum Merdeka menekankan pentingnya memahami konsep dasar dari materi yang dipelajari, jangan hanya fokus pada memorisasi saja.\
+\
+**Jangan lupa pendidikan bahasa Inggris**, sebagai bahasa internasional sangat penting bagi perkembangan karir dan persaingan global.\
+\
 **Buat sistem evaluasi yang sesuai dengan kurikulum. **Buat sistem evaluasi yang sesuai dengan kurikulum yang digunakan agar dapat mengevaluasi kemajuan siswa dengan benar.\
-Dengan mengikuti tips-tips ini, implementasi Kurikulum Merdeka akan berjalan dengan baik dan meningkatkan kualitas pendidikan di sekolah-sekolah di Indonesia.
-
+\
+Dengan mengikuti tips-tips ini, implementasi Kurikulum Merdeka akan berjalan dengan baik dan meningkatkan kualitas pendidikan di sekolah-sekolah di Indonesia.\
+\
 Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang dapat di unduh pada link berikut di bawah ini:
+
+**IKM Kelas 1 : BAHASA INDONESIA**
+
+* [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9XUTVCRlE3USNzU2w3WUwyYjBpYWpuYVREQmwtNV9n)
+
+* [Program Tahunan](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ETVFFMlpySiNNSHM1TkZjNmlSYjJxLVVhaGg0UmJn)
+
+* [Modul Ajar: Bab 1](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pRkJ3RUw3SiNpY3ltUHNxdXV4ZDlDVkx1N0ZWSzlB)
+
+* [Modul Ajar: Bab 2](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9MWWh3Q0NMWSNZai1iVk5EdG5PREtjVU83blRwbE9B)
+
+* [Modul Ajar: Bab 3](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9lQVlEbkNoUSM0Q2pQWncxaEZRYTdTT0o3ZTlkY19R)
+
+* [Modul Ajar: Bab 4](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci91TUpRSER5RCNoalpyMnlLSHFqZmZRaHBELXJseGVR)
+
+* [Modul Ajar: Bab 5](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci95TndWZ0pEYSNNRFBrYjZySHNWOFRuYXl3Yjh1Q3JR)
+
+* [Modul Ajar: Bab 6](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9YVlFnZ1JCSSN3aDhYTG44T0cwWUxXbGRkSjE1cHJ3)
+
+* [Modul Ajar: Bab 7](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9HWlluWFlSQyNIOXM1VlE5Nk14Q2treXVNdjdNNTd3)
+
+* [Modul Ajar: Bab 8](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9XUVlUd0RJYSNuVEJqMG9ScF9EcWhhbDc0LWhDaFBR)
+
+**IKM Kelas 1 : BAHASA INGGRIS**
+
+* [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci83RUlYbUlyYiM4QzFjSDhXU3dhaTBZdFFLSHRxUDJn)
+
+* [Program Tahunan](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ETVFFMlpySiNNSHM1TkZjNmlSYjJxLVVhaGg0UmJn)
+
+* [Modul Ajar: Bab 1](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci91TnBSVUtvYSNId2FPWkU3dlFTLWF1STNRR2FzZ2Z3)
+
+* [Modul Ajar: Bab 2](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9PZFpqbEs2SSNORHRrN2Q0eVZsUERfMWVNOEJ3MEpR)
+
+* [Modul Ajar: Bab 3](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pUklTelJESSMzLWk4eUlvbER3eFNiY0tfSm1DRnlR)
+
+* [Modul Ajar: Bab 4](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci8zZDVIQWFDTCNSYnBLTm0yYWhxZGJVUnFONEFqenZR)
+
+* [Modul Ajar: Bab 5](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9TRUpCbVFvYiNCS3hmNkFINDRhNDZHb3ZqMjVYc3VR)
+
+* [Modul Ajar: Bab 6](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9TY1p5d2FoUyNyWDRJU3BWd0V5Yk9LSllNbjlDUWx3)
+
+* [Modul Ajar: Bab 7](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9hWVkxaEJRTCM3ZFFpdGYycF96Z3lBOUstcnZKanVn)
+
+**IKM Kelas 1 : BAHASA JAWA**
+
+* [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci83SVJEMWFvQSM1Y1NxV2NpNW4zUEVrb1djRGlQVmZR)
+
+* [Program Tahunan](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9QTXdRd1I3USNVSWpHVFFjMnRnYmRoRTJSWm1uS1ZR)
+
+* [Program Semester](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci82WkFneVJLTCNGRnNReVY4YVljNHlfU0VJSWEwTHlR)
+
+* [Modul Ajar](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9qY0JnQ1FMYiNjUnltRTNjcXZjZTRtQWNsbkRyVFNR)
+
+**IKM Kelas 1 : MATEMATIKA**
+
+* [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci91WnBXVlRyTCM0Ujlld29PbVB4WUl2OFJwaUNYLUxB)
+
+* [Program Tahunan](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ETVFFMlpySiNNSHM1TkZjNmlSYjJxLVVhaGg0UmJn)
+
+* [Modul Ajar: Bab 1](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9HWWh4RUJ6YiNCYTQ0b2dFOWIyODI4MTRwdHNzMFFR)
+
+* [Modul Ajar: Bab 2](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci82UTRpR2JLUSNQYkVudWg3NVJzc3BRcl9vMXVHZWdB)
+
+* [Modul Ajar: Bab 3](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9XUXh3MFFSSSM4N2h6RzRxT3lfU1FKMUNKSFdGbmF3)
+
+* [Modul Ajar: Bab 4](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9HQXBSQ1RJWiN0eTljQ2lMa3J2LUloSXROYk9fdURR)
+
+* [Modul Ajar: Bab 5](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pWnduUkxqVCN0X0Y0cDlkOUw5djE2Ym5ackJmS1F3)
+
+* [Modul Ajar: Bab 6](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci96QVpDU0NqSiNiVlVyU044MjFWaXhiOU9VTDh4ZWRn)
+
+* [Modul Ajar: Bab 7](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9yVnBpQlppSSNkY2JuNmVaSE9hZmkzQzNHdVQwQlJn)
+
+* [Modul Ajar: Bab 8](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9xVjRIbWF3YiN6SWhCaFFURHFmV0F6X0M2V1FSRWJ3)
+
+* [Modul Ajar: Bab 9](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9mZDR3M1JTYiNqbHlCcWN6M245b0dNbS1SZHpDcExn)
+
+* [Modul Ajar: Bab 10](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9lUUlGR1FpWiNzLWxrTFFmRTVfbTFydHFkT0dVQ2FR)
+
+* [Modul Ajar: Bab 11](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci92Um9sQlREUSNBR0tFTXlUWGR4MU5va0hwYkRmWDBB)
+
+* [Modul Ajar: Bab 12](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci91RmdsM0RhQSNrY1EzZTZWa1RKeW5STDRpcjNoM2dB)
+
+* [Modul Ajar: Bab 13](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9MWVFFZ0xaRCNXaHFEc1A1blpocXNEUGxWbU9PUWtB)
+
+* [Modul Ajar: Bab 14](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pQVpHeEl5VCNCeC1FbDNJUjZBV2lYZUpLS183azhR)
+
+* [Modul Ajar: Bab 15](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci91Tm9UMUlwUyNhWFkzTk5USXhxT2VNb1czZlRrRTFn)
+
+* [Modul Ajar: Bab 16](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9UQmdpMlFUUiNiWTdxaHBiYlUtQWJFempYVFZ0T01n)
+
+**IKM Kelas 1 : PKN**
+
+* [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9HWW9YVkpCTCM3V0dfeUJsRzNqM0kxNUxaV0FJd0Z3)
+
+* [Program Tahunan](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ETVFFMlpySiNNSHM1TkZjNmlSYjJxLVVhaGg0UmJn)
+
+* [Modul Ajar: Bab 1](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pVWhpbUlDYSNBeDRkN2xNZWhNc3RDb0d2c2owWXNB)
+
+* [Modul Ajar: Bab 2](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9qSVJRVkFEWiMwZHVlVmhmZDhCaXJJaUpyUy0ydDJB)
+
+* [Modul Ajar: Bab 3](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9UZHhuRVpwVCNIdXFmaXMwMUdPYnVZaXphREMwWm5R)
+
+* [Modul Ajar: Bab 4](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci95SXBDV0o0WSNMQU5lc0NfdHNMWWE4WmE1bkd2WURB)
+
+* [Modul Ajar: Bab 5](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9UY1p6bER4QSNudEcwNkc2U2c5aFpwWmstYlhGd3Z3)
+
+**IKM Kelas 1 : KESENIAN**
+
+* [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9XQVl5blRpTCNMS1RiUlo1MUY2ME0wUElKMjljZjFn)
+
+* [Program Tahunan](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ETVFFMlpySiNNSHM1TkZjNmlSYjJxLVVhaGg0UmJn)
+
+* [Modul Ajar: Bab 1](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci91RllubkxiQyNfdHNSMkgwaDZWYjI4cmtlSzBPc3p3)
+
+* [Modul Ajar: Bab 2](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9qVmh6bUJaUiNkSWlGa3RRSktNS2ZfM250amsyTFRR)
+
+* [Modul Ajar: Bab 3](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9DSUl3VEo1QiNHOTVIR1BYRTdGeDU1NUU2Tmw5X1RB)
+
+* [Modul Ajar: Bab 4](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9YTVFRakRqSyNvQU5sOXRSam9VUzl4MTBDRDlUWnhR)
+
+**IKM Kelas 1 : PROJEK P5**
+
+* [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci8yQlpVd0tqTCNSVkZFbFdPQm1OR3JHR0xJUVFELUln)
+
+* [Program Tahunan](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ETVFFMlpySiNNSHM1TkZjNmlSYjJxLVVhaGg0UmJn)
+
+* [Modul Ajar](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9LZDVVU0NLSyNPZkRpcmtidjBIeTFZQWFmRVVRaElR)
+
+**IKM Kelas 4 : **[PENDIDIKAN AGAMA ISLAM](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ETVprREpMQSNZakhmT3hvUUtadnAySXRkd2c4ZGZ3)
+
+**IKM Kelas 4 :** [SENI MUSIK](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci8zSVIxelFDSSM3dzdYd3JKX2JXVXNobVhNb0NIUmR3)
+
+**IKM Kelas 4 : BAHASA INDONESIA**
+
+* [Modul Ajar: Bab 1](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pWVpCeUNaSiNZNTRiU1BMVUotelAxOEM3YzJUcU1R)
+
+* [Modul Ajar: Bab 2](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci95QndEaFlnTCNoc3hnVDQ1dUhqT3J3a1NxRVQzU1Rn)
+
+* [Modul Ajar: Bab 3](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9YY1lTd1NKQiNuWVQzcnFCUkNNNVNSXzR1RDV6djFB)
+
+* [M](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci82VXgyMUNwYSNhcnY5cDJKcE9kcVRqa0YtZ3ZTVWNB)[odul Ajar: Bab 4](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9TQTVoQ1RJSSN3RFRCR1htUVkxMC1ZMmU1b2l3Qk5B)
+
+* [Modul Ajar: Bab 5](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9TQTVoQ1RJSSN3RFRCR1htUVkxMC1ZMmU1b2l3Qk5B)
+
+* [Modul Ajar: Bab 6](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9IVlloQUNRVCNmUmxFbFlBRmpCdEFpYUd3cm1CZUVR)
+
+* [Modul Ajar: Bab 7](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci8ySVpqaUNaRCNHTzQ2cXRJSUZERXlSLUFlTFZVLUxn)
+
+* [Modul Ajar: Bab 8](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9MSUJVSGFLQiNiemJONlVmNEtyNFdXd3VNUWxSN2xn)
+
+**IKM Kelas 4 : BAHASA INGGRIS**
+
+* [Modul Ajar: Bab 1](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9PWXdEVERDUyNjYXlITlFFLWVpSlJPUU1zWWNWOUhR)
+
+* [Modul Ajar: Bab 2](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9EZFJXaEE0SyNtNDgzTUhla0JjbkZyTnhNR1dIeHJn)
+
+* [Modul Ajar: Bab 3](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9iVlFRa0NEUyNfQW5OMExXQjZFaGpzMWpkcTItckhR)
+
+* [Modul Ajar: Bab 4](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pY0p6a1JBSSMwSXVtcG1Cb3BaaWhDU2tWTWlQWlZ3)
+
+* [Modul Ajar: Bab 5](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci95ZFl4Z0pRSiN5VDRrUU83cWJJR1EwZUVLdTRXVjR3)
+
+* [Modul Ajar: Bab 6](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci91Smh5bkJKSyNiQjdjX2ktZURibWk1SERPNHBHWDVR)
+
+* [Modul Ajar: Bab 7](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci83QUFDU1FyWSNsY2FPbFJSeGVDQ2YtMlo2ckFMWktR)
+
+* [Modul Ajar: Bab 8](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci82RVJHd2JhSSNKaG9kTDh0UFZXQ1JrRmtZWWxTVldB)
+
+* [Modul Ajar: Bab 9](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9uQVlsU1lhSyNoazVnOFVFdmdONmp1MmxNMm1ucXJB)
+
+* [Modul Ajar: Bab 10](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9USTUxREFKUSNoeVVORERNbnNBbzMtMjhNSXBVTHF3)
+
+* [Modul Ajar: Bab 11](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9PWXdqa0M2UiNkcmtiN1o5SWhidlBBcjg0d2pBRktB)
+
+* [Modul Ajar: Bab 12](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9TUmh6eUtiQyNXUTA1d2lIQUNWNV9Nd3UyQzlmdXhn)
+
+**IKM Kelas 4 : PKN**
+
+* [Modul Ajar: Bab 1](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci95SlptU0pUWiNmc25VN3hHNjlTMWJLY1hEY3VvNXZn)
+
+* [Modul Ajar: Bab 2](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9yWnhHREQ3VCNQU0Q1ZXp5YjhKTlZLZFhSaktxR2FR)
+
+* [Modul Ajar: Bab 3](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci8yUXB3ekFTWiNLTVFmbVZQR1VNMVBUMlcwNVJobkdn)
+
+* [Modul Ajar: Bab 4](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9MQjR5Mkp3VCNLQ2dhZ0dvX1ZfSzRMTGFIN0hmQ1pB)
+
+* [Modul Ajar: Bab 5](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci82QXhoRlpwUyM3UkFaSHUtZUZFUlRxUG5HOWpYVERB)
+
+**IKM Kelas 4 : MATEMATIKA**
+
+* [Modul Ajar: Bab 1](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci82QUpSRkRZYiNWQzU5ckdrTFM3U08zYkpRQXJHNWlB)
+
+* [Modul Ajar: Bab 2](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9tVmdRMGJxYSN2QUEySXNGcGt4SGpMZTVJV0pXWGR3)
+
+* [Modul Ajar: Bab 3](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ETUkwQ0M0YiNvOVNyY3dQQ0JvOEZPV2h5cWVQeVVn)
+
+* [Modul Ajar: Bab 4](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pRmhXa1piYiNlUS03aGhaa3ZzMmRSQjQtb1p2WEh3)
+
+* [Modul Ajar: Bab 5](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9EQVFWeEtoYSNSWXhrU211VW14WXMtbW9GMFp2MXFn)
+
+* [Modul Ajar: Bab 6](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9xQVFuQUtMUSNMWVllcWRtZEZiQXROQ1VyWEZST1ln)
+
+* [Modul Ajar: Bab 7](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9XVXdBV1k2QyM3aEx5NHpHT253dUt2RVozYWlTMm5B)
+
+* [Modul Ajar: Bab 8](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9iWlFIaVpBSiM2MDZkaGFUOUszOVA1Q0tJMjM5eTd3)
+
+* [Modul Ajar: Bab 9](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9iUmgzbWE0SiN0RkR2YTE5R1FnRHYtRmhsV2E3OTVB)
+
+* [Modul Ajar: Bab 10](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ERlJSakRoRCMzbWl6OHJHa3I2cWg4TWxmd1NKaVpn)
+
+* [Modul Ajar: Bab 11](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9UQUlCMFRxYiM4amVTbUhlZmdjQ05aRjF2b2dKQU1B)
+
+* [Modul Ajar: Bab 12](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9XWnczd1I3RCNyOHRBYXozQkU3d3NpOFA3OU9MY3ZB)
+
+* [Modul Ajar: Bab 13](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9iWlpnMkxMVCNYQk1tSmt3cjhqMGYwM1ZoV3N6LWRB)
+
+* [Modul Ajar: Bab 14](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9yRm9SREFqTCNzVllPQzM5cFpibFRpZ0ExTnR0YnJB)
+
+* [Modul Ajar: Bab 15](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ESVJVRkFqVCNFZ2h5WngxUmhYQ3FXVVVLSzJkVFJB)
+
+* [Modul Ajar: Bab 16](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9uQklnd0FCSSNOQUM3ZTBRaHQ1LWNESklPSDFhUmtn)
+
+* [Modul Ajar: Bab 17](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci8zY0FGaVNLSiNyME9Ga0NRbUdBSmRhOEszbkU0Y2Jn)
+
+* [Modul Ajar: Bab 18](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci91SWdEUUtSSSNpYUhFR2dMNTlqVl9ERmt5dGNuYXNR)
+
+* [Modul Ajar: Bab 19](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9TVmdTeEw3USNJU1B6YjF2RTB1RVVGY25PMWdYTVd3)
+
+* [Modul Ajar: Bab 20](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci8yUWdIVFo0SyNxX0tGOXBtRTdtZzlfZUhnZV9MU01n)
