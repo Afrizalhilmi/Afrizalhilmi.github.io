@@ -26,29 +26,29 @@ Kurikulum Merdeka diterapkan selama beberapa dekade dan mengalami beberapa perub
 
 Implementasi Kurikulum Merdeka dalam pendidikan dasar dan menengah merupakan hal yang penting untuk meningkatkan kualitas pendidikan di Indonesia. Namun, untuk menerapkan kurikulum ini dengan baik, diperlukan beberapa tips dan strategi yang efektif.
 
-**Berikut adalah beberapa tips untuk menerapkan Kurikulum Merdeka:**
+### Berikut adalah beberapa tips untuk menerapkan Kurikulum Merdeka:
 
-**Persiapkan sumber daya yang dibutuhkan. **Implementasi Kurikulum Merdeka memerlukan sumber daya yang cukup seperti buku-buku teks, modul pelatihan, dan alat peraga yang sesuai. Persiapkan sumber daya ini sebelum menerapkan kurikulum baru.\
+**Persiapkan sumber daya yang dibutuhkan.** Implementasi Kurikulum Merdeka memerlukan sumber daya yang cukup seperti buku-buku teks, modul pelatihan, dan alat peraga yang sesuai. Persiapkan sumber daya ini sebelum menerapkan kurikulum baru.\
 \
-**Sosialisasikan Kurikulum Merdeka. **Informasikan kepada guru, siswa, orang tua, dan masyarakat lain tentang Kurikulum Merdeka dan bagaimana ini akan meningkatkan kualitas pendidikan di sekolah.\
+**Sosialisasikan Kurikulum Merdeka.** Informasikan kepada guru, siswa, orang tua, dan masyarakat lain tentang Kurikulum Merdeka dan bagaimana ini akan meningkatkan kualitas pendidikan di sekolah.\
 \
-**Pelatihan guru. **Pelatihan guru adalah hal yang penting dalam implementasi Kurikulum Merdeka. Sediakan pelatihan yang sesuai untuk guru agar mereka dapat mengajar dengan baik dan menerapkan kurikulum dengan benar.\
+**Pelatihan guru.** Pelatihan guru adalah hal yang penting dalam implementasi Kurikulum Merdeka. Sediakan pelatihan yang sesuai untuk guru agar mereka dapat mengajar dengan baik dan menerapkan kurikulum dengan benar.\
 \
-**Terapkan pendidikan karakter. **Kurikulum Merdeka menekankan pentingnya pendidikan karakter. Buat program khusus untuk menanamkan nilai-nilai seperti nasionalisme, patriotisme, serta daya saing global.\
+**Terapkan pendidikan karakter.** Kurikulum Merdeka menekankan pentingnya pendidikan karakter. Buat program khusus untuk menanamkan nilai-nilai seperti nasionalisme, patriotisme, serta daya saing global.\
 \
-**Revisi kurikulum secara teratur. **Kurikulum Merdeka harus diperbarui secara teratur untuk menyesuaikan dengan perkembangan dunia dan kebutuhan bangsa. Revisi secara berkala akan memastikan kurikulum tetap relevan dan sesuai dengan kebutuhan siswa.\
+**Revisi kurikulum secara teratur.** Kurikulum Merdeka harus diperbarui secara teratur untuk menyesuaikan dengan perkembangan dunia dan kebutuhan bangsa. Revisi secara berkala akan memastikan kurikulum tetap relevan dan sesuai dengan kebutuhan siswa.\
 \
-**Kurangi fokus pada memorisasi, lebih fokus pada pemahaman. **Kurikulum Merdeka menekankan pentingnya memahami konsep dasar dari materi yang dipelajari, jangan hanya fokus pada memorisasi saja.\
+**Kurangi fokus pada memorisasi, lebih fokus pada pemahaman.** Kurikulum Merdeka menekankan pentingnya memahami konsep dasar dari materi yang dipelajari, jangan hanya fokus pada memorisasi saja.\
 \
 **Jangan lupa pendidikan bahasa Inggris**, sebagai bahasa internasional sangat penting bagi perkembangan karir dan persaingan global.\
 \
-**Buat sistem evaluasi yang sesuai dengan kurikulum. **Buat sistem evaluasi yang sesuai dengan kurikulum yang digunakan agar dapat mengevaluasi kemajuan siswa dengan benar.\
+**Buat sistem evaluasi yang sesuai dengan kurikulum.** Buat sistem evaluasi yang sesuai dengan kurikulum yang digunakan agar dapat mengevaluasi kemajuan siswa dengan benar.\
 \
 Dengan mengikuti tips-tips ini, implementasi Kurikulum Merdeka akan berjalan dengan baik dan meningkatkan kualitas pendidikan di sekolah-sekolah di Indonesia.\
 \
 Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang dapat di unduh pada link berikut di bawah ini:
 
-**IKM Kelas 1 : BAHASA INDONESIA**
+### IKM Kelas 1 : BAHASA INDONESIA
 
 * [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9XUTVCRlE3USNzU2w3WUwyYjBpYWpuYVREQmwtNV9n)
 
@@ -70,7 +70,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 * [Modul Ajar: Bab 8](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9XUVlUd0RJYSNuVEJqMG9ScF9EcWhhbDc0LWhDaFBR)
 
-**IKM Kelas 1 : BAHASA INGGRIS**
+### IKM Kelas 1 : BAHASA INGGRIS
 
 * [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci83RUlYbUlyYiM4QzFjSDhXU3dhaTBZdFFLSHRxUDJn)
 
@@ -90,7 +90,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 * [Modul Ajar: Bab 7](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9hWVkxaEJRTCM3ZFFpdGYycF96Z3lBOUstcnZKanVn)
 
-**IKM Kelas 1 : BAHASA JAWA**
+### IKM Kelas 1 : BAHASA JAWA
 
 * [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci83SVJEMWFvQSM1Y1NxV2NpNW4zUEVrb1djRGlQVmZR)
 
@@ -100,7 +100,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 * [Modul Ajar](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9qY0JnQ1FMYiNjUnltRTNjcXZjZTRtQWNsbkRyVFNR)
 
-**IKM Kelas 1 : MATEMATIKA**
+### IKM Kelas 1 : MATEMATIKA
 
 * [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci91WnBXVlRyTCM0Ujlld29PbVB4WUl2OFJwaUNYLUxB)
 
@@ -138,7 +138,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 * [Modul Ajar: Bab 16](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9UQmdpMlFUUiNiWTdxaHBiYlUtQWJFempYVFZ0T01n)
 
-**IKM Kelas 1 : PKN**
+### IKM Kelas 1 : PKN
 
 * [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9HWW9YVkpCTCM3V0dfeUJsRzNqM0kxNUxaV0FJd0Z3)
 
@@ -154,7 +154,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 * [Modul Ajar: Bab 5](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9UY1p6bER4QSNudEcwNkc2U2c5aFpwWmstYlhGd3Z3)
 
-**IKM Kelas 1 : KESENIAN**
+### IKM Kelas 1 : KESENIAN
 
 * [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9XQVl5blRpTCNMS1RiUlo1MUY2ME0wUElKMjljZjFn)
 
@@ -168,7 +168,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 * [Modul Ajar: Bab 4](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9YTVFRakRqSyNvQU5sOXRSam9VUzl4MTBDRDlUWnhR)
 
-**IKM Kelas 1 : PROJEK P5**
+### IKM Kelas 1 : PROJEK P5
 
 * [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci8yQlpVd0tqTCNSVkZFbFdPQm1OR3JHR0xJUVFELUln)
 
@@ -176,11 +176,11 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 * [Modul Ajar](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9LZDVVU0NLSyNPZkRpcmtidjBIeTFZQWFmRVVRaElR)
 
-**IKM Kelas 4 : **[PENDIDIKAN AGAMA ISLAM](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ETVprREpMQSNZakhmT3hvUUtadnAySXRkd2c4ZGZ3)
+### IKM Kelas 4 : [PENDIDIKAN AGAMA ISLAM](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ETVprREpMQSNZakhmT3hvUUtadnAySXRkd2c4ZGZ3)
 
-**IKM Kelas 4 :** [SENI MUSIK](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci8zSVIxelFDSSM3dzdYd3JKX2JXVXNobVhNb0NIUmR3)
+### IKM Kelas 4 : [SENI MUSIK](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci8zSVIxelFDSSM3dzdYd3JKX2JXVXNobVhNb0NIUmR3)
 
-**IKM Kelas 4 : BAHASA INDONESIA**
+### IKM Kelas 4 : BAHASA INDONESIA
 
 * [Modul Ajar: Bab 1](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pWVpCeUNaSiNZNTRiU1BMVUotelAxOEM3YzJUcU1R)
 
@@ -198,7 +198,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 * [Modul Ajar: Bab 8](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9MSUJVSGFLQiNiemJONlVmNEtyNFdXd3VNUWxSN2xn)
 
-**IKM Kelas 4 : BAHASA INGGRIS**
+### IKM Kelas 4 : BAHASA INGGRIS
 
 * [Modul Ajar: Bab 1](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9PWXdEVERDUyNjYXlITlFFLWVpSlJPUU1zWWNWOUhR)
 
@@ -224,7 +224,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 * [Modul Ajar: Bab 12](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9TUmh6eUtiQyNXUTA1d2lIQUNWNV9Nd3UyQzlmdXhn)
 
-**IKM Kelas 4 : PKN**
+### IKM Kelas 4 : PKN
 
 * [Modul Ajar: Bab 1](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci95SlptU0pUWiNmc25VN3hHNjlTMWJLY1hEY3VvNXZn)
 
@@ -236,7 +236,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 * [Modul Ajar: Bab 5](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci82QXhoRlpwUyM3UkFaSHUtZUZFUlRxUG5HOWpYVERB)
 
-**IKM Kelas 4 : MATEMATIKA**
+### IKM Kelas 4 : MATEMATIKA
 
 * [Modul Ajar: Bab 1](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci82QUpSRkRZYiNWQzU5ckdrTFM3U08zYkpRQXJHNWlB)
 
