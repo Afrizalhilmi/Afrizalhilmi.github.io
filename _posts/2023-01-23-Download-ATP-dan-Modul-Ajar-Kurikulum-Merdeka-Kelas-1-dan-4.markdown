@@ -68,7 +68,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 * [Modul Ajar: Bab 7](https://teknosimple.com/SrAgFh)
 
-* [Modul Ajar: Bab 8](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9XUVlUd0RJYSNuVEJqMG9ScF9EcWhhbDc0LWhDaFBR)
+* [Modul Ajar: Bab 8](https://teknosimple.com/6IGUqhQmwFL)
 
 ### IKM Kelas 1 : BAHASA INGGRIS
 
