@@ -74,7 +74,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 * [Alur dan Tujuan Pembelajaran](https://teknosimple.com/7D1c)
 
-* [Program Tahunan](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ETVFFMlpySiNNSHM1TkZjNmlSYjJxLVVhaGg0UmJn)
+* [Program Tahunan](https://teknosimple.com/pDJQE3m6PS)
 
 * [Modul Ajar: Bab 1](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci91TnBSVUtvYSNId2FPWkU3dlFTLWF1STNRR2FzZ2Z3)
 
