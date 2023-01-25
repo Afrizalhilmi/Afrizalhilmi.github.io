@@ -132,7 +132,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 * [Modul Ajar: Bab 13](https://teknosimple.com/AM4KMFjI5)
 
-* [Modul Ajar: Bab 14](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pQVpHeEl5VCNCeC1FbDNJUjZBV2lYZUpLS183azhR)
+* [Modul Ajar: Bab 14](https://teknosimple.com/MtN7sXvf)
 
 * [Modul Ajar: Bab 15](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci91Tm9UMUlwUyNhWFkzTk5USXhxT2VNb1czZlRrRTFn)
 
