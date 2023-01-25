@@ -102,7 +102,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 ### IKM Kelas 1 : MATEMATIKA
 
-* [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci91WnBXVlRyTCM0Ujlld29PbVB4WUl2OFJwaUNYLUxB)
+* [Alur dan Tujuan Pembelajaran](https://teknosimple.com/THlm0ZYmTIR)
 
 * [Program Tahunan](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ETVFFMlpySiNNSHM1TkZjNmlSYjJxLVVhaGg0UmJn)
 
