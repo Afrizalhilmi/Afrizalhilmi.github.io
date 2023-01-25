@@ -174,7 +174,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 * [Program Tahunan](https://teknosimple.com/3KjY08TqzJ)
 
-* [Modul Ajar](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9LZDVVU0NLSyNPZkRpcmtidjBIeTFZQWFmRVVRaElR)
+* [Modul Ajar](https://teknosimple.com/meWPd2me8t)
 
 ### IKM Kelas 4 : [PENDIDIKAN AGAMA ISLAM](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ETVprREpMQSNZakhmT3hvUUtadnAySXRkd2c4ZGZ3)
 
