@@ -152,7 +152,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 * [Modul Ajar: Bab 4](https://teknosimple.com/GgitS8Y)
 
-* [Modul Ajar: Bab 5](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9UY1p6bER4QSNudEcwNkc2U2c5aFpwWmstYlhGd3Z3)
+* [Modul Ajar: Bab 5](https://teknosimple.com/DWrjn2TCz1fO)
 
 ### IKM Kelas 1 : KESENIAN
 
