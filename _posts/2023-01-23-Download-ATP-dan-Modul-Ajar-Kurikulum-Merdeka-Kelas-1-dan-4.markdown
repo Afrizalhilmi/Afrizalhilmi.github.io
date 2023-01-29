@@ -156,7 +156,7 @@ Berikut Kumpulan ATP dan Modul Ajar Kurikulum Merdeka Kelas 1 dan 4 Lengkap yang
 
 ### IKM Kelas 1 : KESENIAN
 
-* [Alur dan Tujuan Pembelajaran](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9XQVl5blRpTCNMS1RiUlo1MUY2ME0wUElKMjljZjFn)
+* [Alur dan Tujuan Pembelajaran](https://teknosimple.com/NNW2Y)
 
 * [Program Tahunan](https://www.tikosewad.my.id/p/safelink.html?url=aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ETVFFMlpySiNNSHM1TkZjNmlSYjJxLVVhaGg0UmJn)
 
