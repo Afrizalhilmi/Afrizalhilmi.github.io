@@ -47,3 +47,5 @@ Untuk penjelasan fitur-fitur Canva lebih lanjut, silakan cek pada [materi berik
 Untuk cara login silahkan unduh file .pdf tutorial login Canva Pendidikan pada link dibawah ini:
 
    [Unduh Disini](https://teknosimple.com/x0CwE)
+
+![](https://www.youtube.com/watch?v=VBctJnPmrpI)
