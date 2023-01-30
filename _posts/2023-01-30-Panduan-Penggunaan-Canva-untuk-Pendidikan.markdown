@@ -11,17 +11,11 @@ Dengan menggunakan Akun belajar.id, mengakses dan menggunakan fitur-fitur Canva 
 Canva untuk Pendidikan menawarkan berbagai alat dan juga materi yang memudahkan Anda untuk dapat menyusun materi kelas secara visual yang menarik seperti:
 
 * Presentasi
-
 * Poster
-
 * Aktivitas kelompok
-
 * Materi kelas virtual seperti background Zoom atau Google Meet
-
 * Materi dekorasi kelas
-
 * Infografis
-
 * Template video, dan lainnya.
 
 Apabila teman-teman masuk ke platform Canva dengan menggunakan Akun belajar.id, maka laman Canva telah dikhususkan untuk penggunaan Canva untuk Pendidikan.
@@ -48,8 +42,8 @@ Saat masuk ke Canva untuk Pendidikan menggunakan Akun belajar.id, teman-teman ak
 
 7. **Buat Desain**, tombol yang mengarahkan teman-teman ke ruang kerja untuk membuat desain ataupun karya.
 
-   Untuk penjelasan fitur-fitur Canva lebih lanjut, silakan cek pada [materi berikut](https://www.canva.com/design/DAFPNNYFlP8/NJlef1wY74U08n_GMTz2_Q/view?utm_content=DAFPNNYFlP8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
+Untuk penjelasan fitur-fitur Canva lebih lanjut, silakan cek pada [materi berikut](https://www.canva.com/design/DAFPNNYFlP8/NJlef1wY74U08n_GMTz2_Q/view?utm_content=DAFPNNYFlP8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
 
-   Untuk cara login silahkan unduh file .pdf tutorial login Canva Pendidikan pada link dibawah ini:
+Untuk cara login silahkan unduh file .pdf tutorial login Canva Pendidikan pada link dibawah ini:
 
    [Unduh Disini](https://teknosimple.com/x0CwE)
