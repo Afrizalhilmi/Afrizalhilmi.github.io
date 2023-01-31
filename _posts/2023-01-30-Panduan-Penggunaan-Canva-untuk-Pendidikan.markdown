@@ -48,4 +48,4 @@ Untuk cara login silahkan unduh file .pdf tutorial login Canva Pendidikan pada l
 
    [Unduh Disini](https://teknosimple.com/x0CwE)
 
-![](https://www.youtube.com/watch?v=VBctJnPmrpI)
+[![w:1100](https://i.imgur.com/bc9HOJU.png)](https://www.youtube.com/watch?v=kCHGDRHZ4eU)
