@@ -1,9 +1,8 @@
 ---
-title: Panduan Penggunaan Canva untuk Pendidikan
-date: 2023-01-30 21:31:00 +07:00
+title: Koneksi Antar Materi Modul 3.1 Pengambilan Keputusan Berbasis Nilai-nilai Kebajikan Sebagai Pemimpin
+date: 2024-10-22 23:01:00 +07:00
 categories:
-- Pendidikan
-- canva
+- PGP11
 ---
 
 Dengan menggunakan Akun belajar.id, mengakses dan menggunakan fitur-fitur Canva untuk Pendidikan jadi lebih mudah karena teman-teman dapat langsung menautkan Akun belajar.id tanpa harus verifikasi data diri secara mandiri. 
