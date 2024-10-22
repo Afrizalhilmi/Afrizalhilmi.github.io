@@ -5,6 +5,9 @@ categories:
 - PGP11
 ---
 
+![image](https://github.com/user-attachments/assets/8834fcda-f03f-4f71-88e3-88d3d405ae5c)
+
+
 Dengan menggunakan Akun belajar.id, mengakses dan menggunakan fitur-fitur Canva untuk Pendidikan jadi lebih mudah karena teman-teman dapat langsung menautkan Akun belajar.id tanpa harus verifikasi data diri secara mandiri. 
 
 Canva untuk Pendidikan menawarkan berbagai alat dan juga materi yang memudahkan Anda untuk dapat menyusun materi kelas secara visual yang menarik seperti:
